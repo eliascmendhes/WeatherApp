@@ -1,13 +1,12 @@
 //
 //  ModelData.swift
-//  WeatherApp
+//  Weather
 //
-//  Created by Stephanie Diep on 2021-11-30.
+//  Created by Elias Camilo on 25/12/23.
 //
 
 import Foundation
 
-// If you wish to Archive this project, move this file outside of the Preview Content folder, as this folder is not taken into consideration by the Xcode Archive
 
 var previewWeather: ResponseBody = load("weatherData.json")
 

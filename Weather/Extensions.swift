@@ -1,8 +1,8 @@
 //
 //  Extensions.swift
-//  WeatherApp
+//  Weather
 //
-//  Created by Stephanie Diep on 2021-11-30.
+//  Created by Elias Camilo on 25/12/23.
 //
 
 import Foundation

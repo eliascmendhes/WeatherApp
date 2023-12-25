@@ -1,8 +1,8 @@
 //
 //  WeatherRow.swift
-//  WeatherApp
+//  Weather
 //
-//  Created by Stephanie Diep on 2021-11-30.
+//  Created by Elias Camilo on 25/12/23.
 //
 
 import SwiftUI
@@ -31,11 +31,5 @@ struct WeatherRow: View {
                     .font(.title)
             }
         }
-    }
-}
-
-struct WeatherRow_Previews: PreviewProvider {
-    static var previews: some View {
-        WeatherRow(logo: "thermometer", name: "Feels like", value: "8°")
     }
 }
